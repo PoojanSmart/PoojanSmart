@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Poojan</h1>
-<h3 align="center">Passion towards artifical intellegence</h3>
+<h2 align="left">Hello 👋, I'm Poojan</h1>
+<h5 align="left">Passion towards artifical intellegence</h3>
 
 - 📫 How to reach me **smrtpoojan@gmail.com**
 
